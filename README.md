@@ -1,3 +1,10 @@
+## 📊 Supported Images Versions
+<li> 1.0.0</li>
+<li> 1.1.X</li>
+<li> 1.2.X</li>
+<li> 1.3.X</li>
+
+
 ## ⭐ Sources
 <details>
 <summary>Click to reveal</summary>
