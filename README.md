@@ -15,8 +15,6 @@
       <td><a href="https://github.com/KingLycosa/acnhpoker/releases/tag/0.0001">ACNHPoker</a></td>
       <td><a href="https://github.com/MirayXS/ACNH-IMAGEZIP">ACNH-IMAGEZIP</a></td>
       <td><a href="https://acnhcdn.com">ACNHCDN</a></td>
-  
-  </tr>
-  </table>
+    </table>
   
 </details>
