@@ -5,7 +5,6 @@
 <li> 1.1.X</li>
 <li> 1.2.X</li>
 <li> 1.3.X</li>
-<br>
 <hr>
 
 ## ⭐ Sources
